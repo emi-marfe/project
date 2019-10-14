@@ -1,0 +1,2 @@
+C:\Users\Oladimeji Marvellous\source\repos\backendforpro\backendforpro\obj\Debug\backendforpro.njsprojAssemblyReference.cache
+C:\Users\Oladimeji Marvellous\source\repos\backendforpro\backendforpro\bin\Microsoft.NodejsTools.WebRole.dll
